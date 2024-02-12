@@ -1,5 +1,5 @@
 
-Open your Windows wallet.
+Open your  wallet.
 
 Go to Tools -> Debug console.
 
